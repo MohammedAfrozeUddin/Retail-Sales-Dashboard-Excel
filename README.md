@@ -23,6 +23,9 @@ This project presents a **Professional Retail Sales and Inventory Dashboard** bu
 - **Attractive Layout** with professional formatting and color schemes
 
 ---
+## **Demo Video**
+
+[Watch the full demo](Dashbord-Video.mp4)
 
 ## **Screenshots**
 
